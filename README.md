@@ -1,4 +1,7 @@
-# api documentation for  [copy-to (v2.0.1)](https://github.com/node-modules/copy-to)  [![npm package](https://img.shields.io/npm/v/npmdoc-copy-to.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-copy-to) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-copy-to.svg)](https://travis-ci.org/npmdoc/node-npmdoc-copy-to)
+# npmdoc-copy-to
+
+#### basic api documentation for  [copy-to (v2.0.1)](https://github.com/node-modules/copy-to)  [![npm package](https://img.shields.io/npm/v/npmdoc-copy-to.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-copy-to) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-copy-to.svg)](https://travis-ci.org/npmdoc/node-npmdoc-copy-to)
+
 #### copy an object's properties to another object
 
 [![NPM](https://nodei.co/npm/copy-to.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/copy-to)
@@ -63,7 +66,8 @@
     "scripts": {
         "test": "make test"
     },
-    "version": "2.0.1"
+    "version": "2.0.1",
+    "bin": {}
 }
 ```
 
